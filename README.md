@@ -22,7 +22,7 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 
 Acompanhe meu progresso e contribuições:
 
-![vboehm09's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaikemur09&show_icons=true&theme=dark)
+![vboehm09's GitHub stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=dark)
 
