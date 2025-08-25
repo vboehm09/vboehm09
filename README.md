@@ -1,4 +1,4 @@
-# 👋 Olá! Sou o Victor Boehm
+# 👋 Olá! Eu sou o Victor Boehm
 
 Estudante de Desenvolvimento de Sistemas no SENAI. Estou em uma jornada contínua para aprimorar minhas habilidades e construir projetos significativos.
 
