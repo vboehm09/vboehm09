@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá! Sou o Victor Boehm
 
-<!--
-**vboehm09/vboehm09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de Sistemas no SENAI. Estou em uma jornada contínua para aprimorar minhas habilidades e construir projetos significativos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudado:
+
+- JavaScript
+- HTML5
+- CSS3
+- Python
+- MySQL
+- Git & GitHub
+- VS Code
+
+---
+
+## 📊 Estatísticas do GitHub
+
+Acompanhe meu progresso e contribuições:
+
+![vboehm09's GitHub stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=dark)
+
+---
+
+## 📞 Conecte-se comigo
+
+- Instagram: [https://www.instagram.com/v_boehm_?igsh=cTdjdmZtdXA1dGx2]
+- Email: [victor.b.assumpcao@aluno.senai.br]
