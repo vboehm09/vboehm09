@@ -22,8 +22,7 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 
 Acompanhe meu progresso e contribuições:
 
-<div align="center">
-  <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+![boehm's GitHub stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=dark)
   <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff"/>
 </div>
 
