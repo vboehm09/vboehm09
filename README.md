@@ -28,6 +28,16 @@ Acompanhe meu progresso e contribuições:
 
 ---
 
+## 🎵 Codando agora ao som de
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mheob&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify"/>
+  </a>
+</div>
+
+---
+
 ## 📞 Conecte-se comigo
 
 - Instagram: [https://www.instagram.com/v_boehm_?igsh=cTdjdmZtdXA1dGx2]
