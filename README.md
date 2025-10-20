@@ -31,10 +31,9 @@ Acompanhe meu progresso e contribuições:
 ## 🎵 Codando agora ao som de
 
 <div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1hkhxgf5maqgh0re10hivi9in&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false" alt="Spotify"/>
-  </a>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1hkhxgf5maqgh0re10hivi9in&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify"/>
 </div>
+
 
 
 ---
