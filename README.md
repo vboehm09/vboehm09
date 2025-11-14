@@ -45,9 +45,20 @@ Acompanhe meu progresso e contribuições:
 
 ## 👻 Contribuições
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:23272f&height=10" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## 📞 Conecte-se comigo
 
