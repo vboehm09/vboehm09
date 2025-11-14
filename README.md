@@ -60,6 +60,19 @@ Acompanhe meu progresso e contribuições:
   />
 </picture>
 
+---
+
+## 🕹️ Contribuições estilo Pac-Man
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thiago-rferreira/thiago-rferreira/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph"/>
+</div>
+
+<hr>
+
+---
+
+
 ## 📞 Conecte-se comigo
 
 - Instagram: [https://www.instagram.com/v_boehm_?igsh=cTdjdmZtdXA1dGx2]
