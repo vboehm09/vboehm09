@@ -21,13 +21,19 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub e da Conta
 
 Acompanhe meu progresso e contribuições:
 
 ![boehm's GitHub stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=algolia&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff)
   <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff"/>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vboehm09&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge" alt="Contador de visualizações do perfil" />
+  <img src="https://img.shields.io/github/followers/vboehm09?label=Seguidores&style=for-the-badge" alt="Seguidores no GitHub" />
+  <img src="https://img.shields.io/github/stars/vboehm09?label=Stars&style=for-the-badge" alt="Total de stars no GitHub" />
+</p>
 
 ---
 
