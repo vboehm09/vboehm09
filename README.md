@@ -8,12 +8,12 @@ Estudante de Desenvolvimento de Sistemas no SENAI. Estou em uma jornada contínu
 
 Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudado:
 
-- JavaScript
-- HTML5
-- CSS3
-- Python
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - MySQL
-- Git & GitHub
 - VS Code
 
 ---
