@@ -62,17 +62,6 @@ Acompanhe meu progresso e contribuições:
 
 ---
 
-## 🕹️ Contribuições estilo Pac-Man
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vboehm09/vboehm09/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph"/>
-</div>
-
-<hr>
-
----
-
-
 ## 📞 Conecte-se comigo
 
 - Instagram: [https://www.instagram.com/v_boehm_?igsh=cTdjdmZtdXA1dGx2]
