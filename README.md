@@ -37,10 +37,19 @@ Acompanhe meu progresso e contribuições:
 
 ---
 
-## 🎵 Codando agora ao som de
+## 🎵 Codando agora ao som de:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1hkhxgf5maqgh0re10hivi9in&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
+---
+
+# 👻 Contribuições 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vboehm09/vboehm09/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vboehm09/vboehm09/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vboehm09/vboehm09/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
