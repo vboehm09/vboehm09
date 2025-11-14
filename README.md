@@ -65,7 +65,7 @@ Acompanhe meu progresso e contribuições:
 ## 🕹️ Contribuições estilo Pac-Man
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thiago-rferreira/thiago-rferreira/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph"/>
+  <img src="https://raw.githubusercontent.com/vboehm09/vboehm09/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph"/>
 </div>
 
 <hr>
