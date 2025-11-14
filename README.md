@@ -43,15 +43,11 @@ Acompanhe meu progresso e contribuições:
 
 ---
 
-# 👻 Contribuições 
+## 👻 Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vboehm09/vboehm09/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vboehm09/vboehm09/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vboehm09/vboehm09/output/pacman-contribution-graph.svg">
-</picture>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:23272f&height=10" />
+</p>
 
 ## 📞 Conecte-se comigo
 
