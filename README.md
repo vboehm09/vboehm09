@@ -35,6 +35,7 @@ Acompanhe meu progresso e contribuições:
   <img src="https://img.shields.io/github/followers/vboehm09?label=Seguidores&style=for-the-badge" alt="Seguidores no GitHub" />
   <img src="https://img.shields.io/github/stars/vboehm09?label=Stars&style=for-the-badge" alt="Total de stars no GitHub" />
 </p>
+<img height="160" src="https://streak-stats.demolab.com?user=Eduardo1985S&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições (streak) do GitHub" />
 
 ---
 
