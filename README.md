@@ -37,6 +37,8 @@ Acompanhe meu progresso e contribuições:
   <img src="https://img.shields.io/github/stars/vboehm09?label=Stars&style=for-the-badge" alt="Total de stars no GitHub" />
 </p>
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vboehm09)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
