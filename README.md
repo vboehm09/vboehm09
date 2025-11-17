@@ -28,7 +28,7 @@ Acompanhe meu progresso e contribuições:
 
 ![boehm's GitHub stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=algolia&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff)
   <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff"/>
-  
+   <img height="160" src="https://github-profile-trophy.vercel.app/?username=vboehm09&theme=onedark&no-frame=true&row=1&column=6" alt="Troféus do perfil do GitHub" />
 </div>
 
 <p align="center">
