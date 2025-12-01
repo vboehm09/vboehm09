@@ -63,6 +63,11 @@ Acompanhe meu progresso e contribuições:
   />
 </picture>
 
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vboehm09&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
 ---
 
 ## 📞 Conecte-se comigo
