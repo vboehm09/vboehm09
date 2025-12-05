@@ -74,5 +74,5 @@ Acompanhe meu progresso e contribuições:
 
 ## 📞 Conecte-se comigo
 
-- Instagram: [https://www.instagram.com/v_boehm_?igsh=cTdjdmZtdXA1dGx2]
+- Instagram: [@v_boehm_](https://www.instagram.com/v_boehm_?igsh=cTdjdmZtdXA1dGx2)
 - Email: [victor.b.assumpcao@aluno.senai.br]
