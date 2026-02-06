@@ -75,5 +75,6 @@ Acompanhe meu progresso e contribuições:
 
 ## 📞 Conecte-se comigo
 
-- 📧 Email: victor.b.assumpcao@aluno.senai.br
-- 📱 Instagram: [@v_boehm_](https://www.instagram.com/v_boehm_?igsh=cTdjdmZtdXA1dGx2)
+- 📧 [![Email](https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:victor.bassumpcao@aluno.senai.br)
+- 📱 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/v_boehm_)
+
