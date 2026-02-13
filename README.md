@@ -77,6 +77,6 @@ Acompanhe meu progresso e contribuições:
 
 ## 📞 Conecte-se comigo
 
-- 📧 [![Email](https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:victor.bassumpcao@aluno.senai.br)
-- 📱 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/v_boehm_)
+- [![Email](https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:victor.bassumpcao@aluno.senai.br)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/v_boehm_)
 
