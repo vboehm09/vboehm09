@@ -30,7 +30,7 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 
 Acompanhe meu progresso e contribuições:
 
-![boehm's GitHub stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=algolia&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff)
+![boehm's GitHub stats]((http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vboehm09&theme=github_dark))
  
 ![Top Langs]((http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vboehm09&theme=github_dark))
 
