@@ -32,10 +32,6 @@ Acompanhe meu progresso e contribuições:
 
 ![boehm's GitHub stats]((http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vboehm09&theme=github_dark))
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=radical)
- 
 ![Top Langs]((http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vboehm09&theme=github_dark))
 
    
