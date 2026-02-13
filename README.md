@@ -23,7 +23,7 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat&logo=google-gemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic-claude&logoColor=white)
 
 
 ---
