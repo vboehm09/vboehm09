@@ -31,8 +31,10 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 Acompanhe meu progresso e contribuições:
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vboehm09&color=00bfff" alt="Github stats" height="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vboehm09&color=00bfff" alt="GitHub Streak" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vboehm09&color=00bfff" alt="Top Langs" height="175" />
 </div>
+
 
 ![boehm's GitHub stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=algolia&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff)
  
