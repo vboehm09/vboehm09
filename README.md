@@ -55,9 +55,7 @@ Acompanhe meu progresso e contribuições:
 ## 👻 Contribuições
 
 <picture>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vboehm09&color=00bfff" alt="Github stats" height="300" />
-</div>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -74,7 +72,7 @@ Acompanhe meu progresso e contribuições:
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vboehm09&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vboehm09&color=00bfff" alt="Github stats" height="300" />
 </div>
 
 ---
