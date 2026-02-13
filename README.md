@@ -22,7 +22,7 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-1E1E1E?style=flat&logo=google-gemini&logoColor=8E75FF)
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat&logo=google-gemini&logoColor=white)
 
 
 ---
