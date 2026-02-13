@@ -58,20 +58,16 @@ Acompanhe meu progresso e contribuições:
 
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
+    srcset="https://raw.githubusercontent.com/vboehm09/vboehm09/output/github-contribution-grid-snake-dark.svg"
+  >
   <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/vboehm09/vboehm09/output/github-contribution-grid-snake.svg"
+  >
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vboehm09&theme=github_dark" alt="Github stats" height="300" />
-</div>
+    src="https://raw.githubusercontent.com/vboehm09/vboehm09/output/github-contribution-grid-snake.svg"
+  >
 
 </picture>
 
