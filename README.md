@@ -68,12 +68,14 @@ Acompanhe meu progresso e contribuições:
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture>
-
-
+  
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vboehm09&color=00bfff" alt="Github stats" height="300" />
 </div>
+
+</picture>
+
+
 
 ---
 
