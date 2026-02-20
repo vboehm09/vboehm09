@@ -21,6 +21,7 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Expo Go](https://img.shields.io/badge/Expo_Go-20232A?logo=expo_go&logoColor=61DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
 
