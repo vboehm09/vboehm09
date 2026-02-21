@@ -36,11 +36,11 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 
 ---
 
-## 📊 Estatísticas do GitHub e da Conta
+### 📊 Estatísticas de Victor Boehm
 
 Acompanhe meu progresso e contribuições:
 
-![boehm's GitHub stats](https://raw.githubusercontent.com/vboehm09/vboehm09/main/profile-summary-card-output/github_dark/3-stats.svg)
+![Estatísticas](https://raw.githubusercontent.com/vboehm09/vboehm09/main/profile-summary-card-output/github_dark/3-stats.svg)
 
 ![Top Langs](https://raw.githubusercontent.com/vboehm09/vboehm09/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
