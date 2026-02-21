@@ -40,7 +40,7 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 
 Acompanhe meu progresso e contribuições:
 
-![boehm's GitHub stats]((./profile-summary-card-output/github_dark/0-stats.svg))
+![boehm's GitHub stats](./profile-summary-card-output/github_dark/0-stats.svg)
 
 ![Top Langs](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
