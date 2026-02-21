@@ -36,7 +36,7 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 
 ---
 
-### 📊 Estatísticas de Victor Boehm
+### 📊 Estatísticas da minha conta
 
 Acompanhe meu progresso e contribuições:
 
