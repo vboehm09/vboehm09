@@ -40,9 +40,9 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 
 Acompanhe meu progresso e contribuições:
 
-![boehm's GitHub stats]((http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vboehm09&theme=github_dark))
+![boehm's GitHub stats]((./profile-summary-card-output/github_dark/0-stats.svg))
 
-![Top Langs]((http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vboehm09&theme=github_dark))
+![Top Langs](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
    
 </div>
