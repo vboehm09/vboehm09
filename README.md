@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o Victor Boehm
+# 👋 Olá! Eu sou o Victor Boehm, 🚀 Estudante de Desenvolvimento de Sistemas SENAI
 
-Sou estudante de Desenvolvimento de Sistemas no SENAI, com foco em desenvolvimento web e interesse em criar aplicações funcionais, bem estruturadas e com boa experiência de usuário.
+Desenvolvedor Web em formação com foco em criar aplicações modernas, funcionais e centradas na experiência do usuário (UX). Procuro sempre evoluir, unindo código limpo e bem estruturado a interfaces intuitivas. Atualmente, aprimoro minhas habilidades em tecnologias front-end e back-end para construir soluções robustas.
 
 ---
 
