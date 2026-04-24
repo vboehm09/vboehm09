@@ -59,6 +59,10 @@ Acompanhe meu progresso e contribuições:
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=dark)
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=synthwave)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=synthwave)
+
    
 </div>
 
