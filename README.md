@@ -41,27 +41,9 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 
 Acompanhe meu progresso e contribuições:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=dracula)
-
-![Top Langs](https://raw.githubusercontent.com/vboehm09/vboehm09/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=tokyonight)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=tokyonight)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=radical)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=radical)
-
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=dark)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=dark)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=synthwave)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=dark)
 
    
 </div>
