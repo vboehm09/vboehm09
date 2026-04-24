@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Victor Boehm, 🚀 Estudante de Desenvolvimento de Sistemas SENAI
 
-Desenvolvedor Web em formação com foco em criar aplicações modernas, funcionais e centradas na experiência do usuário (UX). Procuro sempre evoluir, unindo código limpo e bem estruturado a interfaces intuitivas. Atualmente, aprimoro minhas habilidades em tecnologias front-end e back-end para construir soluções robustas.
+Desenvolvedor Web e Mobile em formação com foco em criar aplicações modernas, funcionais e centradas na experiência do usuário (UX). Procuro sempre evoluir, unindo código limpo e bem estruturado a interfaces intuitivas. Atualmente, aprimoro minhas habilidades em tecnologias front-end e back-end para construir soluções robustas.
 
 ---
 
@@ -41,15 +41,23 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 
 Acompanhe meu progresso e contribuições:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=dracula)
 
 ![Top Langs](https://raw.githubusercontent.com/vboehm09/vboehm09/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=tokyonight)
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=tokyonight)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=radical)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=radical)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=dark)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=dark)
 
    
 </div>
