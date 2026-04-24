@@ -45,6 +45,10 @@ Acompanhe meu progresso e contribuições:
 
 ![Top Langs](https://raw.githubusercontent.com/vboehm09/vboehm09/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=tokyonight)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=tokyonight)
+
    
 </div>
 
