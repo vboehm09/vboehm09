@@ -41,6 +41,8 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 
 Acompanhe meu progresso e contribuições:
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=tokyonight)
+
 ![vboehm09's GitHub Stats](https://raw.githubusercontent.com/vboehm09/vboehm09/main/profile-summary-card-output/github_dark/3-stats.svg)
 
 ![Top Langs](https://raw.githubusercontent.com/vboehm09/vboehm09/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
