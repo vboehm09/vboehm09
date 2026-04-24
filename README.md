@@ -37,7 +37,7 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 | :---: | :---: |
 | **Claude** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white) |
 | **Gemini** | ![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=flat&logo=google-gemini&logoColor=white) |
-| **ChatGPT** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white) |
+| **ChatGPT** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=chatgpt&logoColor=white) |
 | **Copilot** | ![Copilot](https://img.shields.io/badge/Copilot-6e40c9?style=flat&logo=githubcopilot&logoColor=white) |
 
 ---
