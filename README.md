@@ -1,3 +1,6 @@
+<img width="220" height="165" alt="h2di-pikachu-crazy" src="https://github.com/user-attachments/assets/32839cde-cca1-4003-9b5e-7c2e9010185e" />
+
+
 # 👋 Olá! Eu sou o Victor Boehm, 🚀 Estudante de Desenvolvimento de Sistemas SENAI
 
 Desenvolvedor Web e Mobile em formação com foco em criar aplicações modernas, funcionais e centradas na experiência do usuário (UX). Procuro sempre evoluir, unindo código limpo e bem estruturado a interfaces intuitivas. Atualmente, aprimoro minhas habilidades em tecnologias front-end e back-end para construir soluções robustas.
