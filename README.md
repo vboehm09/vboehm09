@@ -48,7 +48,7 @@ Acompanhe meu progresso e contribuições:
 
 <br>
 
-![Vboehm09's GitHub stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=dark&custom_title=vboehm's%20GitHub%20Stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=dark)
 
 <br><br>
