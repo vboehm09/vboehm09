@@ -55,7 +55,7 @@ Acompanhe meu progresso e contribuições:
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=vboehm09&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge" alt="Contador de visualizações do perfil" />
-<img src="https://img.shields.io/github/followers/vboehm09?label=Seguidores&style=for-the-badge" alt="Seguidores no GitHub" />
+<!-- <img src="https://img.shields.io/github/followers/vboehm09?label=Seguidores&style=for-the-badge" alt="Seguidores no GitHub" /> -->
 <img src="https://img.shields.io/github/stars/vboehm09?label=Stars&style=for-the-badge" alt="Total de stars no GitHub" />
 
 ---
