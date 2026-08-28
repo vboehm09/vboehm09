@@ -61,7 +61,7 @@ Acompanhe meu progresso e contribuições:
 
 ---
 
-## 🎵 Codando agora ao som de:
+<!-- ## 🎵 Codando agora ao som de: -->
 
 <br>
 
