@@ -61,13 +61,13 @@ Acompanhe meu progresso e contribuições:
 
 ---
 
-<!-- ## 🎵 Codando agora ao som de: -->
+<!-- ## 🎵 Codando agora ao som de:
 
 <br>
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1hkhxgf5maqgh0re10hivi9in&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile) -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1hkhxgf5maqgh0re10hivi9in&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile) 
 
----
+--- -->
 
 ## 👻 Contribuições
 
