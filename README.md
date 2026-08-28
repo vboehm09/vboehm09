@@ -17,7 +17,7 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 ![HTML5](https://img.shields.io/badge/HTML5-1E1E1E?logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+*![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)*
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
