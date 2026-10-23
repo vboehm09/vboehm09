@@ -91,6 +91,6 @@ Acompanhe meu progresso e contribuições:
 
 [![Email](https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:vicferas@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/v_boehm_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E4405F?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/VictorBoehm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/VictorBoehm)
 
 </div>
