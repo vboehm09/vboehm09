@@ -49,7 +49,7 @@ Acompanhe meu progresso e contribuições:
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=dark&custom_title=vboehm's%20GitHub%20Stats)]
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vboehm09&show_icons=true&theme=dark&custom_title=vboehm's%20GitHub%20Stats)
 <!-- ![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vboehm09?theme=tokyonight&ring=DD2727&border=13DD57&text=DD2727) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vboehm09&layout=compact&theme=dark)
 
@@ -61,13 +61,13 @@ Acompanhe meu progresso e contribuições:
 
 ---
 
-<!-- ## 🎵 Codando agora ao som de:
+ ## 🎵 Codando agora ao som de:
 
 <br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1hkhxgf5maqgh0re10hivi9in&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile) 
 
---- -->
+--- 
 
 ## 👻 Contribuições
 
